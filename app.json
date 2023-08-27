@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "mamin",
+    "slug": "mamin",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
